@@ -1,5 +1,5 @@
 // published by horizonix made by alreadycode!
-// thanks for using v12!
+// thanks for using v2.0-1!
 
 #include <iostream>
 #include <windows.h>
@@ -36,7 +36,7 @@ void setConsoleColor(WORD color) {
 void displayStatus() {
     system("cls");
     setConsoleColor(FOREGROUND_INTENSITY | FOREGROUND_RED | FOREGROUND_BLUE);
-    std::cout << "Safeclick V1 - Quickest Autoclicker - No Viruses" << std::endl;
+    std::cout << "Safeclick V2 - Quickest Autoclicker - No Viruses" << std::endl;
     std::cout << "Made by Alreadycode" << std::endl;
     std::cout << "Press F2 to enable/disable" << std::endl;
     setConsoleColor(FOREGROUND_INTENSITY | FOREGROUND_GREEN | FOREGROUND_BLUE);
@@ -117,7 +117,7 @@ void hotkeyListener() {
 }
 
 int main() {
-    std::wstring strW = L"Safeclick V1";
+    std::wstring strW = L"Safeclick V2";
     SetConsoleTitle(strW.c_str());
     displayStatus();
 
