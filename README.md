@@ -7,6 +7,8 @@
 ### POP mode (Power over Performance) - allows you to get upto 3000+ cps depending on your hardware!
 ### AFK mode (Away from Keyboard) - allows you to be afk and not get afk kicked from guys such as Roblox, Minecraft, GTA or others!
 
+#
+
 ## Hotkeys
 ### Toggle the Autoclicker - F2
 ### AFK mode - F1
