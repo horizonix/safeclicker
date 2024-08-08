@@ -4,7 +4,7 @@
 #
 
 ## Features
-### POP mode (Power over Performance) - allows you to get upto 3000+ cps depending on your hardware!
+### POP mode (Power over Performance) - allows you to get up to 3000+ cps depending on your hardware!
 ### AFK mode (Away from Keyboard) - allows you to be afk and not get afk kicked from guys such as Roblox, Minecraft, GTA or others!
 
 #
