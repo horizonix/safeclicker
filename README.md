@@ -1,7 +1,7 @@
 # Safeclicker V2
 ## Quickest autoclicker - no viruses
 
-#
+### We are not responsible for any damages caused. By using any version or fork of this software you agree to this term!
 
 ## Features
 ### POP mode (Power over Performance) - allows you to get up to 3000+ cps depending on your hardware!
@@ -18,6 +18,6 @@
 
 #
 
-### We are not responsible for any damages caused. By using any version or fork of this software you agree to this term!
-### If the autoclicker wont stop and you have tried everything, press the power button on your computer once to shut down your computer and stop the autoclicker.
+### The autoclicker can sometimes be not possible to stop. So please watch out.
 ### SAVE WORK BEFORE USING THE AUTOCLICKER! Just incase there is a failure, please save all your work before using the autoclicker so it doesn't get not saved if you have to turn off your computer!
+### We are not responsible for any damages caused. By using any version or fork of this software you agree to this term!
